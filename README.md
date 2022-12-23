@@ -1,11 +1,7 @@
 ### Hae Kyu Lim
 
 - 🐥 Back-End Developer
-- 🌱 I'm learning steadily.
-
-
-🥞 STACK
----
+- 🌱 Java, Spring
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limhaekyu&show_icons=true&theme=merko)
 
