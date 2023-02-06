@@ -1,4 +1,4 @@
-### Hae Kyu Lim
+### HaeKyu Lim
 
 - 🐥 Back-End Developer
 - 🌱 Java, Spring
